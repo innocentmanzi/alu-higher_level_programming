@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 3.14159
-print("float: "F'{number:.2F}')
+print("float: "f'{number:.2F}')
