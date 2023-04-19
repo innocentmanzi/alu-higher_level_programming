@@ -5,7 +5,7 @@
 
 
 def say_my_name(first_name, last_name=""):
-    """ Function prints `first_name` and `last_name`
+    """ Function that prints both `first_name` and `last_name`
     Args:
         first_name (string): First name.
         last_name (string): Last name.
